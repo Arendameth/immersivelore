@@ -12,3 +12,5 @@ Once you open the file, you'll be presented with the stories available for the m
 - `title`: The title of the story. Should be accordingly translated.
 - `content`: The actual content of the story. Should be accordingly translated.
 - `rooms`: A list of rooms that the story may spawn in. This should remain the same at all times (DO NOT TRANSLATE THIS).
+
+## Translation Steps

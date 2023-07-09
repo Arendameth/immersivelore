@@ -14,3 +14,33 @@ Once you open the file, you'll be presented with the stories available for the m
 - `rooms`: A list of rooms that the story may spawn in. This should remain the same at all times (DO NOT TRANSLATE THIS).
 
 ## Translation Steps
+## Languages
+| Language          | Abbreviation |
+|-------------------|--------------|
+| Brazilian Portuguese | PTBR      |
+| Catalan           | CA           |
+| Czech             | CS           |
+| Danish            | DA           |
+| Deutshe           | DE           |
+| English           | EN           |
+| Espanol (AR)      | AR           |
+| Espanol (ES)      | ES           |
+| Finnish           | FI           |
+| French            | FR           |
+| Hungarian         | HU           |
+| Indonesian        | ID           |
+| Italiano          | IT           |
+| Japanese          | JP           |
+| Korean            | KO           |
+| Nederlands        | NL           |
+| Norsk             | NO           |
+| Polish            | PL           |
+| Portuguese        | PT           |
+| Romanian          | RO           |
+| Russian           | RU           |
+| Simplified Chinese| CN           |
+| Tagalog           | PH           |
+| Thai              | TH           |
+| Traditional Chinese| CH          |
+| Turkish           | TR           |
+| Ukranian          | UA           |
